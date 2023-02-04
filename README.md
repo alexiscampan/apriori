@@ -5,3 +5,8 @@ apriori implementation in rust
 ```
 cargo run
 ```
+
+## Measure performance
+```
+cargo bench
+```
